@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text"
+        android:text="@string/themeInfo"
+        android:textSize="20sp"
+        android:textColor="@color/colorAccent"
+        android:layout_centerInParent="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnDay"
+        android:layout_marginTop="20dp"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/colorBaseText"
+        android:layout_below="@+id/text"
+        android:layout_centerHorizontal="true"
+        android:text="Light Mode"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:id="@+id/btnNight"
+        android:textColor="@color/colorBaseText"
+        android:background="@color/colorPrimary"
+        android:layout_below="@+id/btnDay"
+        android:layout_centerHorizontal="true"
+        android:text="Night Mode"/>
+
+</RelativeLayout>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Flexic</string>
+    <string name="themeInfo">This is Day Mode</string>
+    <string name="usernameemailplaceholder">Username or Email</string>
+    <string name="passwordplaceholder">Password</string>
+    <string name="confirmpasswordplaceholder">Password</string>
+
+<!--    Registration link-->
+    <string name="btnReg">Don\'t Have An Account? Sign Up </string>
+    <string name="btnRegHere"><u>Here</u></string>
+    <string name="regText1">Register A New Account</string>
+    <string name="regText2">Complete Your Account</string>
+    <string name="regFullName">Full Name</string>
+    <string name="regUsername">Username</string>
+    <string name="regEmail">Email Address</string>
+    <string name="regPhone">Phone Number</string>
+    <string name="regPassword">Password</string>
+    <string name="regConfirmPassword">Confirm Password</string>
+    <string name="regDob">Select Date Of Birth</string>
+    <string name="regSelectPic">Select Profile Photo (Optional)</string>
+    <string name="regSelectWeight">Enter Weight</string>
+    <string name="regSelectHeight">Enter Height</string>
+    <string name="regSelectPhysique">Select Physique (Optional)</string>
+    <string name="regWeightPlaceholder">Weight</string>
+    <string name="regHeightPlaceholder">Height</string>
+    <string name="physiqueDescription">This is a description of selected Physique.</string>
+    <string name="regbio">Enter Bio (Optional)</string>
+    <string name="agree">Tick to Accept All terms &amp; conditions</string>
+
+
+<!--    Buttons-->
+    <string name="btnLogin">Login</string>
+    <string name="btnForgotPassword">Forgot Password</string>
+    <string name="btnClose">Close</string>
+    <string name="btnNext">Next</string>
+    <string name="btnComplete">Complete</string>
+
+
+
+</resources>
